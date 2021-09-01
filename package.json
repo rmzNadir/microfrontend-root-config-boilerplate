@@ -47,6 +47,9 @@
     "@types/jest": "^27.0.1",
     "@types/systemjs": "^6.1.1",
     "@types/webpack-env": "^1.16.2",
+    "i18next": "^20.6.0",
+    "react": "^17.0.2",
+    "react-i18next": "^11.11.4",
     "single-spa": "^5.9.3"
   },
   "types": "dist/sfleet-root-config.d.ts"
